@@ -1,0 +1,24 @@
+{
+  "name": "git_test",
+  "version": "1.0.0",
+  "description": "Practicing Node_JS and Git",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanDudka/git-test.git"
+  },
+  "author": "Bohdan Dudka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BohdanDudka/git-test/issues"
+  },
+  "homepage": "https://github.com/BohdanDudka/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
